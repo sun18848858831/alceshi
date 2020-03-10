@@ -2,6 +2,7 @@
 <div>
  <div id="app">
   <h2>祝你生日快乐，瘦成此图，再次到达人生的巅峰</h2>
+  <h2>生日快乐</h2>
   <img src="https://inline-syhao-file-190805.oss-cn-beijing.aliyuncs.com/avatar/12.jpg" width=400px height=500px><br/>
  <h2>生日快乐</h2><br/>
   </div>
